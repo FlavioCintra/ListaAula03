@@ -43,6 +43,6 @@ public class Exercicio01 extends JFrame {
         umaJanela.setBounds(50, 100, 400, 150);
         umaJanela.setResizable(false);
         umaJanela.setLocationRelativeTo(null);
-        umaJanela.setVisible(true);
+        umaJanela.setVisible(true); 
     };
 }
